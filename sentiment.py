@@ -169,7 +169,7 @@ if uploaded_file is not None:
             text = text.replace('•', '  *')
             return Markdown(textwrap.indent(text, '> ', predicate=lambda _: True))
 
-        genai.configure(api_key="AIzaSyB2sQh_oHbFULJ7x2vixJWAboPpPvrCKoA")
+        genai.configure(api_key="YOUR API KEY")
 
         import PIL.Image
 
@@ -201,7 +201,7 @@ if uploaded_file is not None:
             text = text.replace('•', '  *')
             return Markdown(textwrap.indent(text, '> ', predicate=lambda _: True))
 
-        genai.configure(api_key="AIzaSyB2sQh_oHbFULJ7x2vixJWAboPpPvrCKoA")
+        genai.configure(api_key="YOUR API KEY")
 
         import PIL.Image
 
@@ -234,7 +234,7 @@ if uploaded_file is not None:
             text = text.replace('•', '  *')
             return Markdown(textwrap.indent(text, '> ', predicate=lambda _: True))
 
-        genai.configure(api_key="AIzaSyB2sQh_oHbFULJ7x2vixJWAboPpPvrCKoA")
+        genai.configure(api_key="YOUR API KEY")
 
         import PIL.Image
 
@@ -276,7 +276,7 @@ if uploaded_file is not None:
             text = text.replace('•', '  *')
             return Markdown(textwrap.indent(text, '> ', predicate=lambda _: True))
 
-        genai.configure(api_key="AIzaSyB2sQh_oHbFULJ7x2vixJWAboPpPvrCKoA")
+        genai.configure(api_key="YOUR API KEY")
 
         import PIL.Image
 
@@ -319,7 +319,7 @@ if uploaded_file is not None:
             text = text.replace('•', '  *')
             return Markdown(textwrap.indent(text, '> ', predicate=lambda _: True))
 
-        genai.configure(api_key="AIzaSyB2sQh_oHbFULJ7x2vixJWAboPpPvrCKoA")
+        genai.configure(api_key="YOUR API KEY")
 
         import PIL.Image
 
@@ -362,7 +362,7 @@ if uploaded_file is not None:
             text = text.replace('•', '  *')
             return Markdown(textwrap.indent(text, '> ', predicate=lambda _: True))
 
-        genai.configure(api_key="AIzaSyB2sQh_oHbFULJ7x2vixJWAboPpPvrCKoA")
+        genai.configure(api_key="YOUR API KEY")
 
         import PIL.Image
 
